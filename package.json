@@ -1,7 +1,7 @@
 {
   "name": "graphql-body-parser",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.1.0",
+  "description": "an express graphql middleware",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "npm run build",

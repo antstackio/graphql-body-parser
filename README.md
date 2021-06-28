@@ -11,12 +11,12 @@ Request Body
 
 ```json
   {
-    query: "query($name: String) {
+    "query": "query($name: String) {
                hello(name: $name){
                name
               }
             }",
-    variables: {
+    "variables": {
       "name": "khubo"
     }
   }
