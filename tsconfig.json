@@ -17,6 +17,10 @@
 		"dist"
 	],
 	"include": [
-		"./src/**/*.ts"
+		"./src/**/*.ts",
+		
+	],
+	"files": [
+    "global.d.ts"
 	]
 }
